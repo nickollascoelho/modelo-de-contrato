@@ -30,7 +30,7 @@ Todas as palavras ou expressões constantes da lista abaixo deverão ser entendi
 
 **“Planos de Assinatura”** são planos diversos disponíveis na *Plataforma XYZ* com características e preços específicos.
 
-**“Plataforma XYZ”** é a plataforma online por meio da qual o *Cliente* terá acesso às informações referente à essas *Condições Gerais*.
+**“Plataforma XYZ”** é a plataforma online por meio da qual o Cliente terá acesso às informações referente as Condições Gerais.
 
 **“Senha”** é o dado de acesso pessoal à *Plataforma XYZ*. É responsabilidade do *Cliente* manter este dado em sigilo e atualizado.
 
@@ -142,7 +142,7 @@ b) Android, iOS, Windows Phone.
 
 8.2. O CLIENTE poderá optar pelas *Formas de Pagamento* disponíveis na *Plataforma XYZ* no momento da contratação.
 
-8.3. Verificando-se o atraso no pagamento do(s) valor(es) devidos e/ou dos eventuais pagamentos adicionais previstos em virtude do *Pacote de Serviços, o *Sistema* poderá ser imediatamente interrompido e o presente contrato considerado rescindido, respeitadas as condições previstas na clásula 9.2 abaixo.
+8.3. Verificando-se o atraso no pagamento do(s) valor(es) devidos e/ou dos eventuais pagamentos adicionais previstos em virtude do *Pacote de Serviços, o *Sistema* poderá ser imediatamente interrompido e o presente contrato considerado rescindido, respeitadas as condições previstas na cláusula 9.2 abaixo.
 
 8.4. No caso exposto na cláusula 8.3 acima, a interrupção do *Sistema* acarretará o bloqueio da *Conta de usuário* de acesso a *Plataforma XYZ*, não sendo possível utilizar nenhuma funcionalidade do mesmo.
 
@@ -152,9 +152,9 @@ b) Android, iOS, Windows Phone.
 
 **9 - MULTAS, REAJUSTES E OUTRAS PENALIDADES**
 
-9.1. O *Contratado* se compromete a informar o *Cliente*, com um prazao de 30 dias, sobre qualquer reajuste em seus *Pacotes de serviços*.
+9.1. O *Contratado* se compromete a informar o *Cliente*, com um prazo de 30 dias, sobre qualquer reajuste em seus *Pacotes de serviços*.
 
-9.2. O não pagamento do(s) valore(s) previsto(s) no *Pacote de Serviços* escolhido pelo *Cliente*,importará na incidência de juros de 1% (um por cento) ao mês, multa de 2% (dois por cento) sobre os valores devidos e não pagos. Ainda, o não pagamento dará o *Contratado* o direito de interromper o *Sistema* em 10 (dez) dias após o vencimento, reputar rescindido o contrato.
+9.2. O não pagamento do(s) valore(s) previsto(s) no *Pacote de Serviços* escolhido pelo *Cliente*, importará na incidência de juros de 1% (um por cento) ao mês, multa de 2% (dois por cento) sobre os valores devidos e não pagos. Ainda, o não pagamento dará o *Contratado* o direito de interromper o *Sistema* em 10 (dez) dias após o vencimento, reputar rescindido o contrato.
 
 **10 - PRAZO DE VIGÊNCIA**
 
@@ -162,7 +162,7 @@ b) Android, iOS, Windows Phone.
 
 **11 - RESCISÃO**
 
-11.1. O *Contratado* e o *Cliente* tem garantida a faculdade de terminar o *Contrato* unilateralmente, a qualquer momento e sem necessidade de justificativa. Neste sentido, qualquer uma das partes poderá comunicar à outra a sua decisão de considerar finalizado o presente *Contrato*, informando a data em que deverá se encerrar a utilização da *Plataforma XYZ*, desde que tal aviso seja enviado com, no mínimo, 30 (trinta) dias da data pretendida para finalização.
+11.1. O *Contratado* e o *Cliente* têm garantida a faculdade de terminar o *Contrato* unilateralmente, a qualquer momento e sem necessidade de justificativa. Neste sentido, qualquer uma das partes poderá comunicar à outra a sua decisão de considerar finalizado o presente *Contrato*, informando a data em que deverá se encerrar a utilização da *Plataforma XYZ*, desde que tal aviso seja enviado com, no mínimo, 30 (trinta) dias da data pretendida para finalização.
 
 11.2. O *Contratado* e o *Cliente* poderão comunicar, a qualquer momento, a sua decisão de considerar terminado o *Contrato*, o que fará por meio de e-mail ou carta. Em qualquer hipótese, deverá ser respeitado o prazo previsto na cláusula 11.1 acima.
 
@@ -173,7 +173,7 @@ b) Falência, recuperação judicial ou extrajudicial de quaisquer das partes.
 
 11.4. Em qualquer das hipóteses acima previstas, ressalva-se o direito das partes a pleitear indenização por perdas e danos eventualmente verificados, bem como o direito do *Contratado* ao recebimento das quantias devidas e não pagas pelo *Cliente*.
 
-11.5. O *Cliente*, ao ter o *Contratado* cancelado, aceita que sua *Conta de usuário* e todas as funcionalidades relacionadas a *Plataforma XYZ* serão imediatamente indisponibilizadas.
+11.5. O *Cliente*, ao ter o *Contratado* cancelado, aceita que sua *Conta de usuário* e todas as funcionalidades relacionadas a *Plataforma XYZ* serão imediatamente desativadas.
 
 **12 - DECLARAÇÕES DO CLIENTE**
 
@@ -205,4 +205,4 @@ b) Falência, recuperação judicial ou extrajudicial de quaisquer das partes.
 
 ## Versão
 
-> Release: 1.0.1
+> Release: 1.0.2

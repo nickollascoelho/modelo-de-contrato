@@ -16,7 +16,7 @@ Existem muitos modelos disponíveis na internet, entretanto, muitas vezes não s
 
 Status: `em revisão`
 
-Release: `1.0.1`
+Release: `1.0.2`
 
 = ]
 
@@ -42,11 +42,9 @@ Contribua para que este **Modelo de Contrato** se torne melhor. \o/
 
 ## Versão
 
-Não sei se tem necessidade de versão, mas...
-
 > Release: 1.0.1
 
 ## Licença
 
-Este **Modelo de Contrato** é licenciado sob a Licença MIT - consulte o arquivo [LICENSE.txt](LICENSE.txt) para obter detalhes.
+Este **Modelo de Contrato** é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
