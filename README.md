@@ -16,7 +16,7 @@ Existem muitos modelos disponíveis na internet, entretanto, muitas vezes não s
 
 Status: `em revisão`
 
-Release: `1.0.2`
+Release: `1.0.3`
 
 = ]
 

@@ -148,7 +148,7 @@ b) Android, iOS, Windows Phone.
 
 8.5. A não utilização do *Sistema* não implica no cancelamento automático deste *Contrato*, estando o *Cliente* sujeito à cobrança regular do *Pacote de Serviços* contratado e às consequências do seu não pagamento.
 
-9.5. o cancelamento do contrato, por qualquer motivo, gerará a imediata indisponibilidade de acesso do *Cliente* à *Plataforma XYZ*, bem como todas as suas funcionalidades.
+8.6. o cancelamento do contrato, por qualquer motivo, gerará a imediata indisponibilidade de acesso do *Cliente* à *Plataforma XYZ*, bem como todas as suas funcionalidades.
 
 **9 - MULTAS, REAJUSTES E OUTRAS PENALIDADES**
 
@@ -205,4 +205,4 @@ b) Falência, recuperação judicial ou extrajudicial de quaisquer das partes.
 
 ## Versão
 
-> Release: 1.0.2
+> Release: 1.0.3
